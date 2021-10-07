@@ -1,5 +1,5 @@
 # About MovieHUB
-React based application, shows movies information like banner, rating , budget and so on.
+React based application, shows movies information like banner, rating , budget and so on. Checkout https://tikesh24-moviehub.netlify.app for more info.
 
 ## API Used from
 https://www.themoviedb.org/
